@@ -1,0 +1,12 @@
+agent=Market Analyst2024-06-01 16:16:50: task=
+## Task: Market Analysis
+**Objective:** Identify key market trends and influential factors that could impact stock prices.
+
+**Instructions:**
+1. Analyze historical stock data for patterns and trends.
+2. Research relevant economic indicators and news events.
+3. Assess the potential impact of these factors on future stock prices.
+4. Provide a concise report summarizing your findings and insights.
+
+**Deliverable:** A report highlighting key market trends and their potential influence on stock prices.
+2024-06-01 16:16:50: status=started

@@ -1,0 +1,41 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "crew-financial"
+version = "0.0.1"
+authors = [
+  { name="LovelyLang", email="lovelymoomal001@protonmail.com },
+]
+description = "Just run. Create financial python code"
+readme = "README.md"
+requires-python = ""
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+dependencies = [
+  "crewai",
+  "crewai[tools]",
+  "python-dotenv",
+  "beautifulsoup4",
+  "exa-py",
+  "yfinance",
+  "openai"
+  "scrapegraphai"
+]
+license = {file = "LICENSE"}
+keywords = ["financial","crewai","stock","code generation"]
+
+[project.scripts]
+
+[project.urls]
+Homepage = ""
+Documentation = ""
+Issues = ""
+Repository=""
+Issues = ""
+Changelog = ""
